@@ -1,0 +1,15 @@
+{
+  "name": "b.client-server_certificate2",
+  "version": "1.0.0",
+  "description": "Testing mutual certificates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "security;",
+    "certificates"
+  ],
+  "author": "Sushanth Bobby Lloyds",
+  "license": "ISC"
+}
